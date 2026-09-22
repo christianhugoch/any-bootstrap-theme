@@ -4,8 +4,7 @@
   "description": "Configurable bootstrap layout plugin",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "build_theme": "sass --style=compressed scss/build/my_theme.scss scss/build/bootstrap.min.css"
+    "test": "jest"
   },
   "dependencies": {
     "@saltcorn/markup": "^0.1.2",
